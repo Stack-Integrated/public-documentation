@@ -1,4 +1,5 @@
 # Node.js Application Setup
+After following this guide, you will have the basic dependencies and configurations to run a Stack Integrated Node.js application.
 ## Setting up NVM
 - NVM is what we use to ensure that all developers have Node.js installed, and are running on the same version.
 - Follow the installation guide for NVM [here.](https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating). Once nvm is installed, install node as well.
